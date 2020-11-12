@@ -1,0 +1,1 @@
+This repository contains a model to predict the presence or absence of heart disease. The data used are taken from a subset of the Cleveland database downloaded from kaggle (https://www.kaggle.com/ronitf/heart-disease-uci).
